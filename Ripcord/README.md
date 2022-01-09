@@ -1,0 +1,5 @@
+## Install
+
+1. Copy the code from [custom.json](https://raw.githubusercontent.com/MohamedElashri/dracula/main/Ripcord/custom.json) to your clipboard
+2. Open Ripcord's color configurater (View > Preferences > Style > Customize)
+3. Paste from JSON
