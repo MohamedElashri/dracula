@@ -1,8 +1,7 @@
 ## Install
 
 1. Copy `dracula.theme` and `dracula.yaml` into `~/.config/pandoc/`
-2. Get `draculatheme.sty` from [the LaTeX Dracula
-   theme](https://draculatheme.com/latex) and put it with `dracula.theme` and
+2. Get `draculatheme.sty` from here and put it with `dracula.theme` and
    `dracula.yaml`
 3. Replace the paths in `dracula.yaml` with the full paths of wherever you have
    placed `dracula.theme` and `draculatheme.sty`
